@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVStates", "TVStates\TVStates.csproj", "{F4E73281-E275-458B-A431-93481AC0B9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVStates.Advanced", "TVStates.Advanced\TVStates.Advanced.csproj", "{C326EF5A-8CCE-4CBC-AE96-05FD71C4C8B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E73281-E275-458B-A431-93481AC0B9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E73281-E275-458B-A431-93481AC0B9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E73281-E275-458B-A431-93481AC0B9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E73281-E275-458B-A431-93481AC0B9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C326EF5A-8CCE-4CBC-AE96-05FD71C4C8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C326EF5A-8CCE-4CBC-AE96-05FD71C4C8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C326EF5A-8CCE-4CBC-AE96-05FD71C4C8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C326EF5A-8CCE-4CBC-AE96-05FD71C4C8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
